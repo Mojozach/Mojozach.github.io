@@ -1,88 +1,90 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Zachary Hunter's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Zachary Hunter
+Student at BYUI.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="mojozach32@gmail.com">mojozach32@gmail.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 <!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
 | <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Zachary Hunter
+mojozach32@gmail.com • 716-335-8365 • linkedin.com/in/zachary-hunter-526894329
+EDUCATION
+Bachelor of Science in Computer Science
+Brigham Young University - Idaho
+ Sophomore Standing
+ Relevant Coursework
+ Programming Fundamentals
+ Data Structures (planned/in progress)
+ Computer Systems
+September 2025 - April 2028
+Rexburg, ID
+PROFESSIONAL EXPERIENCE
+Engineering / Technical Intern
+Astronics
+April 2022 - May 2022
+Buffalo, NY
+ Undertook an Internship for CADD experience with knowledge and experience from Ormsby 
+CADD education
+ Assisted engineers with technical and documentation tasks development of invention to make 
+manufacturing team work more efficient
+ Supported project teams with software and system-related work
+ Gained exposure to real-world engineering workflows and project development environments
+Ormsby Education Center
+Ormsby
+September 2020 - June 2022
+Buffalo, NY
+ Created and modified technical drawings using AutoCAD
+ Assisted with drafting and design adjustments for engineering projects
+ Maintained organized design documentation and revisions
+MET worker/ full time
+Home Depot
+ Trained with a team
+ Learned socializing skills
+ Helped team with tasks and work loads
+Lot worker
+June 2021 - September 2021
+Orchard Park,NY
+June 2022 - September 2022
+Home Depot
+ Learned how the company is run by workers with customers
+ Strengthened workers
+Orchard Park, NY
+OBJECTIVE
+Motivated Computer Science student at Brigham Young University seeking an internship or entry-level 
+role where I apply programming, CAD design, and problem-solving skills to real-world technical 
+challenges
+PROGRAMMING LANGUAGES
+ Python
+ C#
+ HTML
+ Technical Tools
+ AutoCAD / CAD Design
+ Basic Cybersecurity Concepts
+OTHER SKILLS
+Problem Solving
+Team Collaboration
+Technical Communication
+LEADERSHIP & SERVICE
+Church Leadership Service
+Boy Scouts of America
+ Achieved Eagle Scout
+ Planned and executed a community service project requiring leadership, logistics, and team 
+coordination
+ Developed strong leadership, perseverance, and service values
+ Held multiple leadership positions in church callings
+ Organized group activities and service projects
+ Mentored and supported members of youth and community groups
+ADDITIONAL INFORMATION
+ Originally from Buffalo
+ Interested in software development, cybersecurity, and engineering technology
+ Strong work ethic with proven leadership and teamwork experienc
 
 
 
