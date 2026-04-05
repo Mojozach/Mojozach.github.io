@@ -22,7 +22,7 @@ website:
       - text: "Home"
         file: index.qmd
       - text: "My Resume"
-        file: Zachary Hunter.pdf
+        file: resume.qmd
       - text: "Data Cleansing"
         file: cleansing.qmd
       - text: "Data Exploration"
